@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kmr_mithlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kmr_mithlesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mk581999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mk581999@gmail.com" height="30" width="40" /></a>
-<a href="https://fb.com/mk581999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="mk581999@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/kmr_mithlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="kmr_mithlesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mk581999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="mk581999" height="30" width="40" /></a>
+<a href="https://twitter.com/kmr_mithlesh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="kmr_mithlesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mk581999@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="mk581999@gmail.com" height="30" width="40" /></a>
+<a href="https://fb.com/mk581999@gmail.com" target="blank"><img align="center"   src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="mk581999@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/kmr_mithlesh" target="blank"><img align="center"  src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="kmr_mithlesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mk581999" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="mk581999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
