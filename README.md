@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/kmr_mithlesh" target="blank"><img src="https://img.shields.io/twitter/follow/kmr_mithlesh?logo=twitter&style=for-the-badge" alt="kmr_mithlesh" /></a> </p>
 
-- 🔭 I’m currently working on **Spree E-Commerce**
+- 🔭 I’m currently working on **Spree E-Commerce Ruby on rails**
 
-- 🌱 I’m currently learning **Ruby on rails , Competitive Programming**
-
-- 👨‍💻 All of my projects are available at [kumarmithlesh.me](kumarmithlesh.me)
+- 👨‍💻 All of my projects are available at [portfolio](https://kumar-mithlesh.github.io/)
 
 - 💬 Ask me about **Ruby , C++ ,HTML , CSS , JS**
 
 - 📫 How to reach me **Mk581999@gmail.com**
 
-- ⚡ Fun fact **I think I ma funny and Creative**
+- ⚡ Fun fact **I think I am funny and Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
