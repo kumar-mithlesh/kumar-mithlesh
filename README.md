@@ -84,8 +84,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Kumar-Mithlesh&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
-## 😀 Jokes Apart
 ---
+
+## 😀 Jokes Apart
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p/>
