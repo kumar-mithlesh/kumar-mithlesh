@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Mithlesh Kumar 👋</h1>
 <h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source Contributor | AI Enthusiast</h3>
 
----
 
 ## 👨‍💻 About Me
 
@@ -18,7 +17,6 @@
 - 🏊‍♂️ Swimming for fun & fitness  
 - 🥾 Trekking into the wild  
 
----
 
 ## 🌐 Connect with Me
 
@@ -31,7 +29,6 @@
   </a>
 </p>
 
----
 
 ## 🧰 Tech Stack
 
@@ -64,7 +61,6 @@
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
@@ -77,14 +73,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Mithlesh&theme=dark&hide_border=true&layout=compact&langs_count=6"/>
 </p>
 
----
 
 ## 🚀 Top Contributed Repositories
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Kumar-Mithlesh&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
----
 
 ## 😀 Jokes Apart
 <p align="center">
