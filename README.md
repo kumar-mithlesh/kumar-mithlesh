@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Mithlesh Kumar 👋</h1>
-<h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | AI Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | Ruby on Rails & React | Open Source contributor | AI Enthusiast</h3>
 
 ---
 
